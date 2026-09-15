@@ -6,7 +6,6 @@ obtidas através da [TheCatAPI](https://developers.thecatapi.com/).
 ## Integrantes
 
 - Herbert Fagundes S. Carvalho 
-- RA: 2040482322020
 
 ## Funcionalidades
 
